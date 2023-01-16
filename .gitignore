@@ -131,3 +131,7 @@ dmypy.json
 # Package Specific Ignores
 .DS_Store
 env/
+.cache
+.ipython
+.jupyter 
+.local 

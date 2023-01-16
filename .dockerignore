@@ -1,0 +1,11 @@
+docs/
+env/
+.DS_Store
+.cache/
+.github/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.gitignore
+.vscode/
