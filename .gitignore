@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Package Specific Ignores
+.DS_Store
+env/
